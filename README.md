@@ -65,17 +65,17 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Screenshots:
 ### Figure 1. Command line application
-![](./images/svg-logo-maker.png) 
+![]() 
 ### Figure 2. Jest Testing "npm test"
-![](./images/jest-test.png)
+![]()
 ### Figure 3. Generated "logo.svg" file
-![](./images/generated-logo.svg.png)
+![]()
 
 ## Installation Process
-1. Clone the repository: [SVG_LOGO_MAKER](https://github.com/sonam-git/)
+1. Clone the repository: [SVG_LOGO_MAKER](https://github.com/sonam-git/SVG_Logo_Maker)
 2. Install the following: 
-- Node.JS [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
-- Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
+- Node.JS [Version 16.18.1](https://nodejs.org/en/blog/release/v18.15.0/)
+- Jest [Version 29.5.0](https://www.npmjs.com/package/jest)
 - Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
 3. Open the cloned repository in any source code editor.
 4. Open the integrated terminal for the document and complete the respective installation guides provided above in section (2.) to ensure the cloned documentation will operate.
@@ -83,7 +83,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Built With
 - Dynamic JavaScript
 - Node.js [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
-- Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
+- Jest [Version 29.5.0](https://www.npmjs.com/package/jest)
 - Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
 - License Badge: [Shields.io](https://shields.io/)
 - Visual Studio Code: [Website](https://code.visualstudio.com/)
@@ -91,7 +91,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## What I Learned
 - Create an non-deployed application that invokes a “node index.js” in the command line to generate a logo and save it as a SVG file.
 - Learned the JavaScript testing framework "Jest".
-### Continued Development:
+## Continued Development:
 1. Contniue creating SVG files to practice
 2. Add more user prompts to create more possibilities among a rendered SVG image.
 
