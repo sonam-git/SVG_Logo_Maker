@@ -1,6 +1,6 @@
 # SVG LOGO MAKER
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   
 ## Description:
 The application enables users to enter inputs into a inquirer prompt in order to generate a logo "logo.svg" file which contains the users desired results as an SVG image.
@@ -16,6 +16,7 @@ The application enables users to enter inputs into a inquirer prompt in order to
 - [Solution URL](#solution-url)
 - [Demo Walkthrough Video](#demo-walkthrough-video)
 - [Screenshots](#screenshots)
+- [License](#license)
 - [Author](#author)
 
 # Overview
@@ -91,7 +92,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 [Solution URL Link:](https://github.com/sonam-git/SVG_Logo_Maker)
 
 ## Demo Walkthrough Video:
-[Click Here to Watch](https://drive.google.com/file/d/1EURKU_cjDrCwdK1dB9SSe2CVQ0KTIKPe/view)
+[Click here to watch the Demo](https://drive.google.com/file/d/1EURKU_cjDrCwdK1dB9SSe2CVQ0KTIKPe/view)
 
 ## Screenshots:
 ### Figure 1. Command line application
@@ -101,7 +102,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ### Figure 3. Generated "logo.svg" file
 ![](https://user-images.githubusercontent.com/89502092/232385651-639f900f-4bfe-4995-b682-a15f84f06a2b.png)
 
-
+## License
+This project is covered under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Author
 
