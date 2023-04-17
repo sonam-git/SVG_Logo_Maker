@@ -17,7 +17,7 @@ class SvgLogo {
   }
   // The setTextElement set the text and color according to user input
   setTextElement(text, color) {
-    this.textElement = `<text x="150" y="125" font-size="50px" text-anchor="middle" font-family="monospace" fill="${color}">${text}</text>`;
+    this.textElement = `<text x="150" y="125" font-size="50px" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" fill="${color}">${text}</text>`;
   }
   // The setShapeElement set the shape according to user input either Triangle, Circle or Square.
   setShapeElement(shape) {
