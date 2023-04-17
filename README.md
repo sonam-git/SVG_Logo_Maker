@@ -13,9 +13,10 @@ The application enables users to enter inputs into a inquirer prompt in order to
 - [Built With](#built-with)
 - [What I Learned](#what-i-learned)
 - [Continued Development](#continued-development)
-- [License](#license)
+- [Solution URL](#solution-url)
+- [Demo Walkthrough Video](#demo-walkthrough-video)
+- [Screenshots](#screenshots)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 # Overview
 
@@ -55,24 +56,11 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 4. Through sequential order within the command line interface - the user will be presented with npm inquirer questions - the user will provide a response to each question and proceed.
 5. Once completed a SVG file named "logo.svg" will be created.
 6. At your discretion, you may rename the "logo.svg" file to the file name of your choice.
-
-
-## Solution URL:
-[Solution URL Link:]( )
-
-## YouTube Walkthrough Video:
-[Click Here to Watch]()
-
-## Screenshots:
-### Figure 1. Command line application
-![]() 
-### Figure 2. Jest Testing "npm test"
-![]()
-### Figure 3. Generated "logo.svg" file
-![]()
+7. The error message will be showing a the end if the user don't follow the instruction while answering their question
+   (for eg. enter none or more than three characters, invalid color code or name)
 
 ## Installation Process
-1. Clone the repository: [SVG_LOGO_MAKER](https://github.com/sonam-git/SVG_Logo_Maker)
+1. Clone the repository: [SVG_Logo_Maker](https://github.com/sonam-git/SVG_Logo_Maker)
 2. Install the following: 
 - Node.JS [Version 16.18.1](https://nodejs.org/en/blog/release/v18.15.0/)
 - Jest [Version 29.5.0](https://www.npmjs.com/package/jest)
@@ -91,11 +79,30 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## What I Learned
 - Create an non-deployed application that invokes a “node index.js” in the command line to generate a logo and save it as a SVG file.
 - Learned the JavaScript testing framework "Jest".
+- Implementation of class constructor & inheritance in JavaScript.
+- About SVG 
+
 ## Continued Development:
 1. Contniue creating SVG files to practice
-2. Add more user prompts to create more possibilities among a rendered SVG image.
+2. Add more user prompts to create more possibilities among a rendered SVG image with better UI/UX.
 
- 
+
+## Solution URL:
+[Solution URL Link:](https://github.com/sonam-git/SVG_Logo_Maker)
+
+## Demo Walkthrough Video:
+[Click Here to Watch](https://drive.google.com/file/d/1EURKU_cjDrCwdK1dB9SSe2CVQ0KTIKPe/view)
+
+## Screenshots:
+### Figure 1. Command line application
+![](https://user-images.githubusercontent.com/89502092/232384639-32b10190-1fe2-46a9-ad4b-23993c8b0237.png) 
+### Figure 2. Jest Testing "npm test"
+![](https://user-images.githubusercontent.com/89502092/232384450-bef7021b-40b5-4aa8-81df-6760dd8a46e1.png)
+### Figure 3. Generated "logo.svg" file
+![](https://user-images.githubusercontent.com/89502092/232385651-639f900f-4bfe-4995-b682-a15f84f06a2b.png)
+
+
+
 ## Author
 
 Follow me on Github at [Sonam J Sherpa](https://github.com/sonam-git).
